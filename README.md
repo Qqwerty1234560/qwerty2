@@ -43,9 +43,9 @@
 ## Системная конфигурация
 <details>
   <summary>Моё рабочее окружение</summary>
-  * ОС: Windows 11
-  * Оперативная память: 16,0 ГБ
-  * Процессор: 13th Gen Intel(R) Core(TM) i5-13420H
+   ОС: Windows 11
+   Оперативная память: 16,0 ГБ
+   Процессор: 13th Gen Intel(R) Core(TM) i5-13420H
 </details>
 
 
