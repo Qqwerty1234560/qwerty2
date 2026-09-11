@@ -1,5 +1,11 @@
 # Чистякова Екатерина `IT-Student`
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Beginner-blue" alt="Python">
+  <img src="https://img.shields.io/badge/Student-black" alt="GitHub">
+  <img src="https://img.shields.io/badge/Learning-green" alt="Markdown">
+</p>
+
 *Студентка колледжа, новичок в IT, но у меня всё ещё впереди!*
 
 ## Оглавление
