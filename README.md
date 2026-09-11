@@ -74,5 +74,6 @@
 
 * **Учебное заведение: [Санкт-Петербургский Институт Экономики и Управления](https://www.spbiem.ru/)**
 * **Учебная группа: ИР11-26-11**
-* **Электронная почта:** dnadnededed@gmail.com
+* [![Email](https://img.shields./badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dnadnededed@gmail.com)
+* **Электронная почта** dnadnededed@gmail.com
 [^1]: IT (Information Technology) — Информационные Технологии.
